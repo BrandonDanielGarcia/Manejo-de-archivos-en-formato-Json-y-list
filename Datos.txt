@@ -1,0 +1,18 @@
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Brandon Daniel","edad":"22","sexo":"masculino"}
+{"nombre":"Monserrat","edad":"19","sexo":"femenino"}
+{"nombre":"Victor","edad":"45","sexo":"masculino"}
+{"nombre":"Esteban","edad":"45","sexo":"masculino"}
+{"nombre":"Maria","edad":"46","sexo":"femenino"}
+{"nombre":"Maria","edad":"46","sexo":"femenino"}
+{"nombre":"Maria","edad":"46","sexo":"femenino"}
+{"nombre":"Maria","edad":"46","sexo":"femenino"}
+{"nombre":"Maria","edad":"46","sexo":"femenino"}
+{"nombre":"Teresa","edad":"46","sexo":"femenino"}
