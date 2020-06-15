@@ -29,9 +29,15 @@ public class Archivos {
         else return true;
     }
     
-    public boolean Grabar(List<Atributos> Datos){
+    public boolean Grabar(List<Atributos> Datos, int accion){
         try{
-            FileWriter archivo = new FileWriter(nomArch, true);
+            FileWriter archivo;
+            if(accion == 0){
+                archivo = new FileWriter(nomArch, true);
+            }else{
+               archivo = new FileWriter(nomArch); 
+            }
+           
             try(BufferedWriter bw = new BufferedWriter(archivo)){
                 for(Atributos dato: Datos){
                     bw.write(ConvierteGson(dato)+ "\n");
